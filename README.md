@@ -19,17 +19,17 @@ To achieve the business objective, I conducted exploratory data analysis and app
 Through our analysis, I have identified significant factors that contribute to customer churn. I have gained valuable insights into customer behaviors and characteristics that are associated with higher churn rates. This information will help the bank in making data-driven decisions and implementing targeted strategies to reduce customer churn.
 
 ## Recommendations
-Based on our findings, we recommend the following strategies to the bank:
+Based on our findings, I recommend the following strategies to the bank:
 
-Improving Customer Experience: Enhance the overall customer experience by addressing pain points and improving service quality.
+- Improving Customer Experience: Enhance the overall customer experience by addressing pain points and improving service quality.
 
-Targeted Marketing Campaigns: Develop personalized marketing campaigns to engage and retain high-risk customers.
+- Targeted Marketing Campaigns: Develop personalized marketing campaigns to engage and retain high-risk customers.
 
-Customer Retention Programs: Implement loyalty programs and incentives to reward and retain loyal customers.
+- Customer Retention Programs: Implement loyalty programs and incentives to reward and retain loyal customers.
 
-Proactive Customer Support: Provide proactive customer support to identify and address issues before they lead to churn.
+- Proactive Customer Support: Provide proactive customer support to identify and address issues before they lead to churn.
 
-Continuous Monitoring: Continuously monitor and analyze customer behavior to adapt strategies as needed.
+- Continuous Monitoring: Continuously monitor and analyze customer behavior to adapt strategies as needed.
 
 ## Conclusion
 In conclusion, this churn modeling report provides actionable insights into the factors driving customer churn. By understanding customer behaviors and implementing the recommended strategies, the bank can significantly improve customer retention, leading to better business performance and long-term profitability.
